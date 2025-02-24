@@ -1,1 +1,1 @@
-legacyvpn
+v1.0
